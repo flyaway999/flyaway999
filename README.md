@@ -1,4 +1,4 @@
-<!-- README.md -->
+o<!-- README.md -->
 
 <h1 align="center">Welcome</h1>
 
@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/cY8c1sU.jpeg" alt="Red Anime City" width="800">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/assets/NOME_DA_IMAGEM.gif?raw=true" width="800">
 </p>
