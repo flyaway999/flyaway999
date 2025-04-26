@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Top Languages">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=YOUR_USERNAME&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=bxnefly&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
@@ -72,11 +72,11 @@
 ### 🎮 Fun Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activities.svg?username=YOUR_USERNAME&theme=github_dark" alt="GitHub Activities" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activities.svg?username=bxnefly&theme=github_dark" alt="GitHub Activities" />
 </p>
 
 ---
