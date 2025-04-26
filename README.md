@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/da/63/cc/da63cc6c470846db5197f420d3de8f29.gif" alt="Anime Landscape" width="800">
+  <img src="https://i.ibb.co/rdYFfsV/red-anime-landscape.gif" alt="Anime Landscape" width="800">
 </p>
