@@ -3,7 +3,7 @@
 <h1 align="center">𝕵𝖚𝖘𝖙 𝖋𝖔𝖗 𝖋𝖚𝖓 ^^</h1>
 
 <p align="center">
-  <b>focado em edição e artes visuais 3D.</b>
+  <b>focused on editing and 3D visual arts 🪐</b>
 </p>
 
 ---
