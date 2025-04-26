@@ -25,8 +25,10 @@
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bxnefly)
 
-Streakk 🔥🔥
----
+
+
+<!--Streakk 🔥🔥 -->
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
 </p>
