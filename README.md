@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<code><h1 align="center">Sup bro.</h1><code>
+<h1 align="center"><code>Sup bro.<code></h1>
 
 <p align="center">
   <b>Amateur profile — just for fun, nothing serious.</b>
