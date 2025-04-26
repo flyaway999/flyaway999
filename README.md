@@ -3,7 +3,7 @@
 <h1 align="center">Sup bro.</h1>
 
 <p align="center">
-  <b>White label profile — just for fun, nothing serious.</b>
+  <b>Amateur profile — just for fun, nothing serious.</b>
 </p>
 
 ---
