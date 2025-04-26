@@ -2,8 +2,8 @@
 
 <h1 align="center">Sup bro.</h1>
 
-<p align="center">
-  <b>Amateur profile — just for fun, nothing serious.</b>
+<p align="center"><code>
+  <b>Amateur profile — just for fun, nothing serious.</b><code>
 </p>
 
 ---
