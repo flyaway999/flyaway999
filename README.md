@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Type-White%20Label-ff0000?style=flat-square&logo=git&logoColor=white" alt="White Label">
 </p>
 
+<p align="center">
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bxnefly)
 
