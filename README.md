@@ -23,13 +23,13 @@
 
 ---
 
-Channel 🦇
+𝕮𝖍𝖆𝖓𝖓𝖊𝖑 🦇
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bxnefly)
 
 ---
 
-Mf streak 🔥
+𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 🔥
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
 </p>
