@@ -9,11 +9,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=red&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Top Languages">
 </p>
 
 ---
@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/rdYFfsV/red-anime-landscape.gif" alt="Anime Landscape" width="800">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="800">
 </p>
