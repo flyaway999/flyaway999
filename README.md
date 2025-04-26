@@ -22,3 +22,9 @@
   <img src="https://img.shields.io/badge/Status-Just%20For%20Fun-ff0000?style=flat-square&logo=github&logoColor=white" alt="Just For Fun">
   <img src="https://img.shields.io/badge/Type-White%20Label-ff0000?style=flat-square&logo=git&logoColor=white" alt="White Label">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/da/63/cc/da63cc6c470846db5197f420d3de8f29.gif" alt="Anime Landscape" width="800">
+</p>
