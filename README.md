@@ -60,7 +60,8 @@
 
 ## <code>About Me 🍩</code>
 
-My name doesn't interest you, but what you need to know is that I program as a hobby, I'm a 3D visual effects editor, I play games as a hobby, and I'm just here to have fun.
+My name doesn't interest you, but what you need to know is that I program as a hobby, I'm a 3D visual effects © editor, I play games 🎮 as a hobby, and I'm just here to have fun.
+
 ---
 
 ## <code>View all 📷</code>
