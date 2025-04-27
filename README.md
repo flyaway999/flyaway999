@@ -23,7 +23,7 @@
 
 ---
 
-𝕮𝖍𝖆𝖓𝖓𝖊𝖑 🦇
+ <code>Channel 🦇</code>
 
 <p align="center">
   <a href="https://www.youtube.com/@bxnefly">
