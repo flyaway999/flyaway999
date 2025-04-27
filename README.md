@@ -22,7 +22,7 @@
 </p>
 
 
- <code>チャネル 💥</code>
+ <code>チャネル 🦇</code>
 
   <a href="https://www.youtube.com/@bxnefly">
     <img src="https://img.shields.io/badge/YouTube-ff4500?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -30,7 +30,7 @@
 </p>
 
  ---
-<b>>> これはとても火事です</b>
+<b>*これはとても火事です</b>
 
 
 <code>Mf streakk 🔥</code>
