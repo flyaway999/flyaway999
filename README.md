@@ -23,9 +23,9 @@
 
 ---
 
-<b>*Abandoned, but it's there</b>
+<b>*廃墟ではありますが、そこにあります。</b>
 
- <code>チャネル 🦇</code>
+ <code>Hobbie 🦇</code>
 
   <a href="https://www.youtube.com/@bxnefly">
     <img src="https://img.shields.io/badge/YouTube-ff4500?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
