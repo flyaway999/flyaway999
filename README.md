@@ -60,7 +60,7 @@
 
 
 
-## Who Am I? 🤔
+## <code>Who Am I? 🤔</code>
 
 - **3D Editing & Modeling Apprentice**: I'm passionate about learning 3D editing and modeling. Every day is a new opportunity to improve my skills in this creative field.  
 - **Self-taught & Competent**: As a self-taught learner, I take pride in my ability to independently master new concepts and tools to solve problems and create solutions.
@@ -70,7 +70,7 @@
 
 ---
 
-## Click here
+## <code>Profiless$s 📷</code>
 
 <div align="left">
   <a href="https://guns.lol/bxnefly" target="_blank">
