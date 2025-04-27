@@ -35,9 +35,7 @@
 
 𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 🔥
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff4500&fire=ffae42&currStreakLabel=ffffff" alt="Streak Stats">
 </p>
-
   <img src="https://github.com/user-attachments/assets/0c327b8e-da2a-4735-93c2-4e4eacab75cc" alt="Gif" width="400px">
 </p>
