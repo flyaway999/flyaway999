@@ -36,34 +36,6 @@
 ---
 
 
-<h2 align="center"><code>My business 🦇</code></h2>
-
-<div align="center">
-  <a href="https://x.com/@bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" style="margin-right: 10px;" />
-  </a>
-  <a href="https://nike.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" style="margin-right: 10px;" />
-  </a>
-  <a href="https://youtube.com/@bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="margin-right: 10px;" />
-  </a>
-  <a href="https://instagram.com/bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
-
-
-
----
-
-
-## <code>About Me 🍩</code>
-
-· My name doesn't interest you, but what you need to know is that I program as a hobby, I'm a 3D visual effects © editor, I play games 🎮 as a hobby, and I'm just here to have fun.
-
----
-
 ## <code>View all 📷</code>
 
 <div align="left">
