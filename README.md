@@ -27,9 +27,9 @@
   <a href="https://www.youtube.com/@bxnefly">
     <img src="https://img.shields.io/badge/YouTube-ff6ac1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-teste
 </p>
 
+<h1 align="center">aaa</h2>
 ---
 
 <code>𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 😈</code>
