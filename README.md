@@ -40,7 +40,7 @@
 
 
 
-<h2 align="center"><code>My business 🍀</code></h2>
+<h2 align="center"><code>🍀</code></h2>
 
 <div align="center">
   <a href="https://x.com/@bxnefly" target="_blank">
