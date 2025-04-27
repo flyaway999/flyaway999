@@ -60,18 +60,7 @@
 
 ## <code>About Me 🍩</code>
 
-Hi, I'm Thiago!   
-I'm a 3D editor and VFX ® artist with a passion for creating stunning visuals.  
-I love gaming and programming 💻 as a hobby, always exploring new technologies and learning something new every day.
-
----
-
-こんにちは、私はティアゴです！  
-私は3DエディターおよびVFXアーティストで、美しいビジュアルを作成することに情熱を注いでいます。  
-ゲームが大好きで、趣味としてプログラミングもしています。新しい技術を探求し、毎日何か新しいことを学んでいます。
-
-
-
+My name doesn't interest you, but what you need to know is that I program as a hobby, I'm a 3D visual effects editor, I play games as a hobby, and I'm just here to have fun.
 ---
 
 ## <code>View all 📷</code>
