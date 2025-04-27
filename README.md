@@ -60,4 +60,9 @@
 
 
 
-![contribs](https://github-readme-stats.vercel.app/api?username=bxnefly&count_private=true&show_icons=true&hide_title=true)
+## Who Am I? 🤔
+
+- **3D Editing & Modeling Apprentice**: I'm passionate about learning 3D editing and modeling. Every day is a new opportunity to improve my skills in this creative field.  
+- **Self-taught & Competent**: As a self-taught learner, I take pride in my ability to independently master new concepts and tools to solve problems and create solutions.
+- **Dev as a Hobby**: I love programming as a hobby. It’s a space where I can challenge myself, build cool projects, and continuously learn.  
+- **Design Enthusiast**: Design is my creative outlet, and I enjoy exploring new ways to visually express ideas and solve problems.
