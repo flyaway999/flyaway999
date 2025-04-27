@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c327b8e-da2a-4735-93c2-4e4eacab75cc" alt="Gif" width="600px">
+  <img src="https://github.com/user-attachments/assets/cd566266-6271-46bc-9617-557c01d81e5e" alt="Gif" width="600px">
 </p>
