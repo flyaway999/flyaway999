@@ -22,6 +22,7 @@
 </p>
 
 <b>teste</b>
+
  <code>チャネル 🦇</code>
 
   <a href="https://www.youtube.com/@bxnefly">
