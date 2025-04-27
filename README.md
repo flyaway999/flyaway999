@@ -36,5 +36,5 @@
 
 
 <p align="left">
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4xOGtoNzM3czRsdnJjN2RoNmZ6b2txM3p0dG5vNGE5bTA3b2U0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" alt="Gif">
+  <img align="center" src="https://github.com/user-attachments/assets/cd566266-6271-46bc-9617-557c01d81e5e" alt="Gif">
 </p>
