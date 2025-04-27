@@ -1,14 +1,4 @@
-<!-- README.md -->
 
-<h1 align="center"><code>𝕵𝖚𝖘𝖙 𝖋𝖔𝖗 𝖋𝖚𝖓 ^^</code></h1>
-
-<p align="center">
-  <code>focU$ed on editing and 3D visual arts ©</code>
-</p>
-
-
-
----
 <h2 align="center"><code>My analytics 🌟</code></h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="GitHub Stats">
