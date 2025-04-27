@@ -2,11 +2,12 @@
 
 <h1 align="center">𝕵𝖚𝖘𝖙 𝖋𝖔𝖗 𝖋𝖚𝖓 ^^</h1>
 
+---
+---
+---
 <p align="center">
   <b><code>編集と3Dアートに焦点を当てる ©</code></b>
 </p>
-
-
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=000000&title_color=ff4500&text_color=ffffff&icon_color=ffae42" alt="GitHub Stats">
