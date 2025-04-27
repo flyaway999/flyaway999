@@ -1,4 +1,4 @@
-<!-- README.md -->
+ <!-- README.md -->
 
 <h1 align="center">𝕵𝖚𝖘𝖙 𝖋𝖔𝖗 𝖋𝖚𝖓 ^^</h1>
 
@@ -37,5 +37,5 @@
 ---
 
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4xOGtoNzM3czRsdnJjN2RoNmZ6b2txM3p0dG5vNGE5bTA3b2U0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" alt="Gif">
 </p>
