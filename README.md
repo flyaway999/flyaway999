@@ -35,8 +35,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=9b59b6&fire=9b59b6" alt="Streak Stats">
 </p>
 
----
 
-<p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/e2105962-f4d9-44bc-8c3b-07c064173a76" alt="Gif">
+<img src="https://github.com/user-attachments/assets/e2105962-f4d9-44bc-8c3b-07c064173a76" alt="Gif">
 </p>
