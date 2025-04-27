@@ -5,9 +5,9 @@
 <p align="center">
   <code>focU$ed on editing and 3D visual arts ©</code>
 </p>
- teste
-teste
-teste
+
+
+
 ---
 <h2 align="center"><code>𝐌𝐲 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 🌟</code></h2>
 
