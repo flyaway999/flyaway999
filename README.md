@@ -25,13 +25,13 @@
 
  <code>Channel 🦇</code>
 
-<p align="center">
   <a href="https://www.youtube.com/@bxnefly">
     <img src="https://img.shields.io/badge/YouTube-ff4500?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
----
+
+
 
  <code>Mf streakk 🔥</code>
 
