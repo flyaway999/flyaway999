@@ -74,7 +74,7 @@
 
 <div align="left">
   <a href="https://guns.lol/bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="312" height="300" alt="patreon logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="312" height="300" alt="linktree logo"  />
   </a>
 </div>
 
