@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/cd566266-6271-46bc-9617-557c01d81e5e" alt="Gif">
+  <img align="center" src="https://github.com/bxnefly/bxnefly/issues/3#issue-3023077576 alt="Gif">
 </p>
