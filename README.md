@@ -7,7 +7,7 @@
 </p>
 
 ---
-<h2 align="center"><code>𝐌𝐲 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 ✨</code></h2>
+<h2 align="center"><code>𝐌𝐲 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 🌟</code></h2>
 
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="GitHub Stats">
 </p>
@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center"><code>𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 😈</code></h2>
+<h2 align="center"><code>𝐌𝐲 𝐬𝐭𝐫𝐞𝐚𝐤 😈</code></h2>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=0d0d2b&ring=ff6ac1&fire=ffc6ff&currStreakLabel=9d4edd" alt="Streak Stats">
 </p>
