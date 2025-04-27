@@ -34,7 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
 </p>
 
----
 
 <p align="left">
   <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm4xOGtoNzM3czRsdnJjN2RoNmZ6b2txM3p0dG5vNGE5bTA3b2U0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" alt="Gif">
