@@ -8,15 +8,12 @@
 
 ---
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="GitHub Stats">
 </p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="Top Languages">
 </p>
 
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Just%20For%20Fun-9d4edd?style=flat-square&logo=github&logoColor=white" alt="Just For Fun">
   <img src="https://img.shields.io/badge/Type-White%20Label-c77dff?style=flat-square&logo=git&logoColor=white" alt="White Label">
 </p>
