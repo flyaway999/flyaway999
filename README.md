@@ -70,7 +70,7 @@
 
 ---
 
-## <code>Profiless$s 📷</code>
+## <code>View all 📷</code>
 
 <div align="left">
   <a href="https://guns.lol/bxnefly" target="_blank">
