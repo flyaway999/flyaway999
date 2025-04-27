@@ -37,7 +37,7 @@
 
 <h2 align="center"><code>My business 🍀</code>
 
-
+---
 
 
 <div align="center">
