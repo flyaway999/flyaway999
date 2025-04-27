@@ -36,5 +36,5 @@
 </p>
 
 
-<img src="https://github.com/user-attachments/assets/e2105962-f4d9-44bc-8c3b-07c064173a76" alt="Gif">
+<img src="https://github.com/user-attachments/assets/0c327b8e-da2a-4735-93c2-4e4eacab75cc" alt="Gif">
 </p>
