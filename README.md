@@ -33,3 +33,9 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=000000&ring=ff0000&fire=ff0000" alt="Streak Stats">
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/bxnefly/bxnefly/output/snake.svg" alt="Snake animation" />
+
+###
