@@ -20,17 +20,6 @@
 </p>
 
 ---
-
-<h2 align="center"><code>𝕮𝖍𝖆𝖓𝖓𝖊𝖑 🦇</code></h2>
-
-<p align="center">
-  <a href="https://www.youtube.com/@bxnefly">
-    <img src="https://img.shields.io/badge/YouTube-ff6ac1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
-
-<h1 align="center">aaa</h2>
-
 <h2 align="center"><code>𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 😈</code></h2>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=0d0d2b&ring=ff6ac1&fire=ffc6ff&currStreakLabel=9d4edd" alt="Streak Stats">
