@@ -3,7 +3,7 @@
 <h1 align="center">𝕵𝖚𝖘𝖙 𝖋𝖔𝖗 𝖋𝖚𝖓 ^^</h1>
 
 <p align="center">
-  <b>focU$ed on editing and 3D visual arts ©</b>
+  <b><code>編集と3Dアートに焦点を当てる ©</code></b>
 </p>
 
 
