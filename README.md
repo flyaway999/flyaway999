@@ -66,3 +66,16 @@
 - **Self-taught & Competent**: As a self-taught learner, I take pride in my ability to independently master new concepts and tools to solve problems and create solutions.
 - **Dev as a Hobby**: I love programming as a hobby. It’s a space where I can challenge myself, build cool projects, and continuously learn.  
 - **Design Enthusiast**: Design is my creative outlet, and I enjoy exploring new ways to visually express ideas and solve problems.
+
+
+---
+
+## Click here
+
+<div align="left">
+  <a href="https://guns.lol/bxnefly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="312" height="300" alt="patreon logo"  />
+  </a>
+</div>
+
+###
