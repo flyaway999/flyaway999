@@ -7,6 +7,9 @@
 </p>
 
 
+---
+
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31yjugghvsdronhdbidh2ix4ytla&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)]]
 
 ---
 <h2 align="center"><code>My analytics 🌟</code></h2>
