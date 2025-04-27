@@ -60,8 +60,4 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bxnefly/bxnefly/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bxnefly/bxnefly/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bxnefly/bxnefly/output/pacman-contribution-graph.svg">
-</picture>
+![contribs](https://github-readme-stats.vercel.app/api?username=bxnefly&count_private=true&show_icons=true&hide_title=true)
