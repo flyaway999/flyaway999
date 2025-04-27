@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Type-White%20Label-ff4500?style=flat-square&logo=git&logoColor=white" alt="White Label">
 </p>
 
-
+<b>teste</b>
  <code>チャネル 🦇</code>
 
   <a href="https://www.youtube.com/@bxnefly">
