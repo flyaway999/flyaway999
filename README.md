@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=000000&title_color=ff4500&text_color=ffffff&icon_color=ffae42" alt="GitHub Stats">
 </p>
 
