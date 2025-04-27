@@ -58,14 +58,18 @@
 ---
 
 
+## About Me
 
+Hi, I'm Thiago! 👋  
+I'm a 3D editor and VFX artist with a passion for creating stunning visuals.  
+I love gaming 🎮 and programming 💻 as a hobby, always exploring new technologies and learning something new every day.
 
-## <code>Who Am I? 🤔</code>
+---
 
-- **3D Editing & Modeling Apprentice**: I'm passionate about learning 3D editing and modeling. Every day is a new opportunity to improve my skills in this creative field.  
-- **Self-taught & Competent**: As a self-taught learner, I take pride in my ability to independently master new concepts and tools to solve problems and create solutions.
-- **Dev as a Hobby**: I love programming as a hobby. It’s a space where I can challenge myself, build cool projects, and continuously learn.  
-- **Design Enthusiast**: Design is my creative outlet, and I enjoy exploring new ways to visually express ideas and solve problems.
+こんにちは、私はティアゴです！👋  
+私は3DエディターおよびVFXアーティストで、美しいビジュアルを作成することに情熱を注いでいます。  
+ゲームが大好きで、趣味としてプログラミングもしています。新しい技術を探求し、毎日何か新しいことを学んでいます。
+
 
 
 ---
