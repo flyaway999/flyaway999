@@ -58,9 +58,9 @@
 ---
 
 
-## About Me 👤
+## <code>About Me 🍩</code>
 
-Hi, I'm Thiago! 🍩  
+Hi, I'm Thiago!   
 I'm a 3D editor and VFX ® artist with a passion for creating stunning visuals.  
 I love gaming and programming 💻 as a hobby, always exploring new technologies and learning something new every day.
 
