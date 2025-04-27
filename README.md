@@ -34,6 +34,8 @@
 
 <h2 align="center"><code>𝕸𝖋 𝖘𝖙𝖗𝖊𝖆𝖐 😈</code><?h2>
 
+---
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnefly&theme=dark&background=0d0d2b&ring=ff6ac1&fire=ffc6ff&currStreakLabel=9d4edd" alt="Streak Stats">
 </p>
 
