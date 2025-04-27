@@ -27,6 +27,7 @@
   <a href="https://www.youtube.com/@bxnefly">
     <img src="https://img.shields.io/badge/YouTube-ff6ac1?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+teste
 </p>
 
 ---
