@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="GitHub Stats">
 </p>
 
-<h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&theme=radical&bg_color=0d0d2b&title_color=9d4edd&text_color=ffc6ff&icon_color=c77dff" alt="Top Languages">
 </p>
 
