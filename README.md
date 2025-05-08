@@ -21,16 +21,20 @@
 </p>
 
 ---
+## About me ✨
 
 <div align="center">
   <a href="https://youtube.com/@bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="95" height="70" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="110" height="70" alt="youtube logo"  />
   </a>
   <a href="thttps://instagram.com/bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="95" height="70" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="70" alt="instagram logo"  />
   </a>
   <a href="https:/twitch.com/bxnefly" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="95" height="70" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="110" height="70" alt="twitch logo"  />
+  </a>
+  <a href="guns.lol/bxnefly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="110" height="70" alt="linktree logo"  />
   </a>
 </div>
 
