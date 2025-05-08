@@ -22,7 +22,7 @@
 
 ---
 
-<h1 align="center"><code>𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 🕷</code></h1>
+<h1 align="center"><code>𝕬𝖇𝖔𝖚𝖙 𝕸𝖊 ♱</code></h1>
 
 <div align="center">
   <a href="https://youtube.com/@bxnefly" target="_blank">
