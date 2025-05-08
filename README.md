@@ -21,7 +21,8 @@
 </p>
 
 ---
-## About me ✨
+
+<h1 align="center"><code>About me</code></h1>
 
 <div align="center">
   <a href="https://youtube.com/@bxnefly" target="_blank">
