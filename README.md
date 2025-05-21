@@ -12,19 +12,18 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=bxnefly&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" alt="bxnefly streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=bxnefly&hide_border=true&background=000000&ring=B30000&fire=B30000&currStreakLabel=B30000&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="bxnefly streak" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&bg_color=000000&title_color=B30000&text_color=FFFFFF" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=000000&title_color=B30000&text_color=FFFFFF&icon_color=B30000" alt="GitHub Stats" />
 </p>
-
 ---
 
 <h1 align="center"><code>𝖒𝖞 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘</code></h1>
