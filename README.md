@@ -3,9 +3,7 @@
 
 
 <!-- GitHub Stats - Horizontal Layout -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <table>
@@ -18,6 +16,10 @@
       </td>
     </tr>
   </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
 </p>
 
 ---
