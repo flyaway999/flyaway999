@@ -1,10 +1,13 @@
 
-<img src="https://github.com/user-attachments/assets/eec2959d-17d6-4e84-aeb9-a6a3bea96678" style="max-width:100%;" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e7b3f343-15c2-4aac-ac17-d0bbd51b842b" style="width:100%; height:auto;" />
+</div>
 
 <!-- GitHub Stats - Horizontal Layout -->
 
 
+---
+<h1 align="center"><code>𝖒𝖞 𝕾𝖙𝖆𝖙𝖚𝖘</code></h1>
 <p align="center">
   <table>
     <tr>
