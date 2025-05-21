@@ -1,13 +1,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,800000&height=120&section=header"/>
 
+
+<h1 align="center"><code>𝖆𝖇𝖔𝖚𝖙 𝕸𝖊</code></h1>
+
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e7b3f343-15c2-4aac-ac17-d0bbd51b842b" style="width:100%; height:auto;" />
 </div>
 
 <!-- GitHub Stats - Horizontal Layout -->
-
-
 ---
 <h1 align="center"><code>𝖒𝖞 𝕾𝖙𝖆𝖙𝖚𝖘</code></h1>
 <p align="center">
@@ -46,3 +49,5 @@
 </div>
 
 ###
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
