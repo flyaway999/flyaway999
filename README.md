@@ -10,8 +10,28 @@
 
 
 > - 📖 I'm just a curious and creative guy, I like front end because of art and design, I'm an editor and I make 3D visuals, I'm 18 years old and I'm always changing things around lol, in my free time I play video games and I'm very good at it, much better than programming
-
 ---
+
+<h1 align="center"><code>𝖒𝖞 𝕾𝖐𝖎𝖑𝖑𝖘</code></h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="35" alt="adobephotoshop logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="35" alt="adobeaftereffects logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="35" alt="adobepremierepro logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="35" alt="blender logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="35" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e7b3f343-15c2-4aac-ac17-d0bbd51b842b" style="width:100%; height:auto;" />
 </div>
