@@ -9,7 +9,7 @@
 
 
 
-> - 🖍 I'm just a curious and creative guy, I like front end because of art and design, I'm an editor and I make 3D visuals, I'm 18 years old and I'm always changing things around lol, in my free time I play video games and I'm very good at it, much better than programming
+> - 📖 I'm just a curious and creative guy, I like front end because of art and design, I'm an editor and I make 3D visuals, I'm 18 years old and I'm always changing things around lol, in my free time I play video games and I'm very good at it, much better than programming
 
 ---
 <div align="center">
@@ -35,6 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=000000&title_color=B30000&text_color=FFFFFF&icon_color=B30000" alt="GitHub Stats" />
 </p>
+
 ---
 
 <h1 align="center"><code>𝖒𝖞 𝕻𝖗𝖔𝖋𝖎𝖑𝖊𝖘</code></h1>
