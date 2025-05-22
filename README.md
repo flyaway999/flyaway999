@@ -1,11 +1,16 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,800000&height=120&section=header"/>
 
-<p align="center"><strong><code>analyst, beginner dev, editor, 3D motion, pro player, 3 majors, lv 21gc and much more...</code></strong></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+PROFILE;JUST+FOR+FUN:%29)](https://git.io/typing-svg)
+
+<p align="center"><strong><code>Beginner dev, editor, 3D motion, pro player, 3 majors, lv 21gc and much more...</code></strong></p>
 
 <h1 align="center"><code>𝖆𝖇𝖔𝖚𝖙 𝕸𝖊</code></h1>
 
-> - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
+
+
+> - 🖍 I'm just a curious and creative guy, I like front end because of art and design, I'm an editor and I make 3D visuals, I'm 18 years old and I'm always changing things around lol, in my free time I play video games and I'm very good at it, much better than programming
+
 ---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e7b3f343-15c2-4aac-ac17-d0bbd51b842b" style="width:100%; height:auto;" />
