@@ -1,11 +1,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,800000&height=120&section=header"/>
 
+<p align="center"><strong><code>analyst, beginner dev, editor, 3D motion, pro player, 3 majors, lv 21gc and much more...</code></strong></p>
 
 <h1 align="center"><code>𝖆𝖇𝖔𝖚𝖙 𝕸𝖊</code></h1>
 
-
-
+> - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
+---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e7b3f343-15c2-4aac-ac17-d0bbd51b842b" style="width:100%; height:auto;" />
 </div>
