@@ -6,7 +6,7 @@
 <h1 align="center"><code>About me 😉🖖</code></h1>
 
 
-> - 🇧🇷 Eu sou apenas um cara curioso e criativo, gosto de front-end por causa da arte e do design, sou editor e faço visuais 3D, tenho 18 anos e estou sempre mudando as coisas rs, no meu tempo livre jogo videogame e sou muito bom nisso, muito melhor dando bala do que programando..
+> - 🇧🇷 Eu sou apenas um cara curioso e criativo, gosto de front-end por conta da arte e do design, sou editor e faço visuais/renders 3D, tenho 18 anos e estou sempre mudando as coisas lol, no meu tempo livre jogo videogame e sou muito bom nisso, muito melhor dando bala do que programando..
   
 > - 🇺🇸 I'm just a curious and creative guy, I like front end because of art and design, I'm an editor and I make 3D visuals, I'm 18 years old and I'm always changing things around lol, in my free time I play video games and I'm very good at it, much better than programming
 
