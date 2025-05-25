@@ -22,10 +22,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=bxnefly&hide_border=true&background=3C1847&ring=5E1E66&fire=4B1F2F&currStreakLabel=2C3B32&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="bxnefly streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=flyaway999&hide_border=true&background=3C1847&ring=5E1E66&fire=4B1F2F&currStreakLabel=2C3B32&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF" alt="bxnefly streak" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnefly&layout=compact&hide_border=true&bg_color=3C1847&title_color=5E1E66&text_color=FFFFFF&icon_color=2C3B32" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyaway999&layout=compact&hide_border=true&bg_color=3C1847&title_color=5E1E66&text_color=FFFFFF&icon_color=2C3B32" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxnefly&show_icons=true&hide_border=true&bg_color=3C1847&title_color=5E1E66&text_color=FFFFFF&icon_color=2C3B32" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flyaway&show_icons=true&hide_border=true&bg_color=3C1847&title_color=5E1E66&text_color=FFFFFF&icon_color=2C3B32" alt="GitHub Stats" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/bxnefly/" target="_blank">
+  <a href="https://steamcommunity.com/id/999/" target="_blank">
     <img src="https://github.com/user-attachments/assets/f0903503-8dc2-4381-9164-e3a07b6cfb39" alt="Steam Profile" width="600">
   </a>
 </div>
@@ -54,13 +54,13 @@
   <a href="https://discord.gg/XTGSh28QC7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="105" height="70" alt="discord logo"  />
   </a>
-  <a href="https://instagram.com/bxnefly" target="_blank">
+  <a href="https://instagram.com/999flyaway" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="105" height="70" alt="instagram logo"  />
   </a>
-  <a href="https://twitch.tv/bxnefly" target="_blank">
+  <a href="https://twitch.tv/flyaway999" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="105" height="70" alt="twitch logo"  />
   </a>
-  <a href="https://youtube.com/@bxnefly" target="_blank">
+  <a href="https://youtube.com/@999flyaway" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="105" height="70" alt="youtube logo"  />
   </a>
 </div>
