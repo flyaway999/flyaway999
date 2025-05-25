@@ -3,7 +3,7 @@
 <p align="center"><strong><code>Beginner dev, editor, 3D motion, tryhard player, 0 majors, lv 1gc and much more... (so bad)
 </code></strong></p>
 
-<h1 align="center"><code>About me 😉</code></h1>
+<h1 align="center"><code>About me 😉🖖</code></h1>
 
 
 > - 🇧🇷 Eu sou apenas um cara curioso e criativo, gosto de front-end por causa da arte e do design, sou editor e faço visuais 3D, tenho 18 anos e estou sempre mudando as coisas rs, no meu tempo livre jogo videogame e sou muito bom nisso, muito melhor do que programar
@@ -14,7 +14,7 @@
 
 <!-- GitHub Stats - Horizontal Layout -->
 ---
-<h1 align="center"><code>My most used languages 📖</code></h1>
+<h1 align="center"><code>My most used languages 🤓☝</code></h1>
 <p align="center">
   <table>
 
@@ -37,7 +37,7 @@
 </p>
 
 ---
-<h1 align="center"><code>Play with me 😴 </code></h1>
+<h1 align="center"><code>Play with me 😴👌 </code></h1>
 
 
 <div align="center">
@@ -45,3 +45,24 @@
     <img src="https://github.com/user-attachments/assets/f0903503-8dc2-4381-9164-e3a07b6cfb39" alt="Steam Profile" width="600">
   </a>
 </div>
+
+---
+
+<h1 align="center"><code>My profiles 😎🤝 </code></h1>
+
+<div align="center">
+  <a href="https://discord.gg/XTGSh28QC7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="105" height="70" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/bxnefly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="105" height="70" alt="instagram logo"  />
+  </a>
+  <a href="https://twitch.tv/bxnefly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="105" height="70" alt="twitch logo"  />
+  </a>
+  <a href="https://youtube.com/@bxnefly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="105" height="70" alt="youtube logo"  />
+  </a>
+</div>
+
+###
