@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/999/" target="_blank">
+  <a href="https://steamcommunity.com/id/flyaway999/" target="_blank">
     <img src="https://github.com/user-attachments/assets/f0903503-8dc2-4381-9164-e3a07b6cfb39" alt="Steam Profile" width="600">
   </a>
 </div>
