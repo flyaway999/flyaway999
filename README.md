@@ -1,11 +1,3 @@
-<br clear="both">
-
-<h1 align="center">social medias</h1>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="https://www.instagram.com/999flyaway" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="instagram logo"  />
