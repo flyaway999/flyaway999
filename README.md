@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=vfx%20editor&fontSize=70&fontColor=FFFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=vfx%20editor&fontSize=70&fontColor=FFFFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
@@ -16,18 +16,18 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Created to Create</h1>
 
 ###
 
-<h5 align="center">my portfolio<br>https://flyaway999.github.io/aways/home/index.html</h5>
+<br clear="both">
+
+<h4 align="center">my portfolio<br>https://flyaway999.github.io/aways/home/index.html</h4>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF00000000&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF00000000&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
