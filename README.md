@@ -1,7 +1,7 @@
 
 ###
 
-<p align="center">I'm 18 years old and my name is Thiago, I like editing and cinema, I do it as a hobby but I intend to make money from it lol</p>
+<p align="center">Do what many don't do, begin.</p>
 
 ###
 
