@@ -1,7 +1,7 @@
 
 ###
 
-<p align="center">Do what many don't do, begin.</p>
+<p align="center">多くの人がやらないことをやってください。始めることです</p>
 
 ###
 
